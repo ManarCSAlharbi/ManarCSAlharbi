@@ -5,7 +5,7 @@
 - Open-source projects in data science or app development
 - AI/ML research
 - 📫 How to reach me:
-- Abdumanar7@gmail.com
+- alharbiii.ma@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a LEGO® lover who can spend hours building new sets.
 
