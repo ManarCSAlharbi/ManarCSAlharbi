@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning: Advanced algorithms, machine learning, app development, and UI/UX.
 - 💞️ I’m looking to collaborate on:
 - Open-source projects in data science or app development
-- AI/ML research
+- AI/ML apps
 - 📫 How to reach me:
 - alharbiii.manar@gmail.com
 - 😄 Pronouns: she/her
